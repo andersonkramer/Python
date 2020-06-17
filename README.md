@@ -14,4 +14,17 @@ __Lista de Tarefa__
 
 Esse **repositorio** tem a ~~finalidade~~ de guardar meus *exercícios* de Python.
 
+**Links**
+
 [Acesse ao Google](www.google.com.br)
+
+**Tabelas**
+
+Coluna1 | Coluna2 | Coluna3
+---|---|---
+Linha1 | Linha1 | Linha1
+Linha2 | Linha2 | Linha2
+
+Não entendo para que serve o comando `document.getElementById()`
+
+Hoje eu estou mega feliz :dog:
